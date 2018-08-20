@@ -7,14 +7,9 @@ Deutsche Telekom wants to publish an Edge API under any license
 which makes the interface definition accessible to any cooperating 
 partner: 
 
-In the beginning, the API definition describes only the data which 
-are exchanged over that api in a client / system envionment. It is
-pubslihed under the terms of CC-BY-SA (See directory 'api')
- 
-Lateron, there might also be published implementations of clients
-or servers using / serving that API. Such implementations will 
-probably released under different open source licenses. For details
-look at the respective directories.
+Part of the definition could also become the implementations of 
+clients using that API. Here you find that code and the licenses
+under which it is released.
 
 ## Purpose
 By using this method, Deutsche Telekom wants to support the new model 

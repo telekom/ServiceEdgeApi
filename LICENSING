@@ -1,0 +1,15 @@
+ServiceEdgeApi :- Sharing a Service Edge API, developed by Deutsche Telekom AG
+contact: opensource@telekom.de
+
+The API description is published under the terms of the CC-BY-SA-4.0 license
+(= Creative Commons Share Alike License). For details the direcrtoy api
+
+Lateron there might be published open source clients using that API.
+These software packages will be published under the termns of other
+open source license. For details see the directory 'clients'
+ 
+Lateron there might also be published open source software serving that API.
+These software packages will be published under the termns of other
+open source license. For details see the directory 'servers'
+
+
